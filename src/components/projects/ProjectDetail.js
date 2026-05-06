@@ -37,14 +37,14 @@ export const ProjectDetail = () => {
                             <div className="si__project__details__box wow fadeInUp animated" data-wow-delay=".5s">
                                 <h5>Project Details</h5>
                                 <ul>
-                                    <li><a href="#">Category:</a> <span>BizBoost</span></li>
-                                    <li><a href="#">Author:</a> <span>Abu Talha</span></li>
-                                    <li><a href="#">Date:</a> <span>23 December,2024</span></li>
-                                    <li><a href="#">Tags:</a> <span>DataMasters</span></li>
-                                    <li><a href="#">Value:</a> <strong>$ 240</strong></li>
+                                    <li><a >Category:</a> <span>BizBoost</span></li>
+                                    <li><a >Author:</a> <span>Abu Talha</span></li>
+                                    <li><a >Date:</a> <span>23 December,2024</span></li>
+                                    <li><a >Tags:</a> <span>DataMasters</span></li>
+                                    <li><a >Value:</a> <strong>$ 240</strong></li>
                                 </ul>
                                 <div className="si__project__details__btn">
-                                    <a href="#">Download PDF <i className="fa-solid fa-download"></i></a>
+                                    <a >Download PDF <i className="fa-solid fa-download"></i></a>
                                 </div>
                             </div>
                         </div>

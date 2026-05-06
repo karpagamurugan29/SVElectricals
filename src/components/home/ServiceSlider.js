@@ -83,7 +83,7 @@ export const ServiceSlider = () => {
                 {/* Slide 1 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a href="#">
+                    <a >
                       <img src={service1} alt="" />
                     </a>
 
@@ -91,14 +91,14 @@ export const ServiceSlider = () => {
                       <div className="si__our__blog__two__content">
                         <a
                           className="si__our__blog__two__content__text"
-                          href="#"
+                          
                         >
                          Design & Installation of HV Substations & Transformers
                         </a>
 
                         <a
                           className="si__our__blog__two__content__btn"
-                          href="#"
+                          
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
@@ -111,7 +111,7 @@ export const ServiceSlider = () => {
                 {/* Slide 2 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a href="#">
+                    <a >
                       <img src={service2} alt="" />
                     </a>
 
@@ -119,14 +119,14 @@ export const ServiceSlider = () => {
                       <div className="si__our__blog__two__content">
                         <a
                           className="si__our__blog__two__content__text"
-                          href="#"
+                          
                         >
                           Industrial Electrical Solutions
                         </a>
 
                         <a
                           className="si__our__blog__two__content__btn"
-                          href="#"
+                          
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
@@ -139,7 +139,7 @@ export const ServiceSlider = () => {
                 {/* Slide 3 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a href="#">
+                    <a >
                       <img src={service3} alt="" />
                     </a>
 
@@ -147,14 +147,14 @@ export const ServiceSlider = () => {
                       <div className="si__our__blog__two__content">
                         <a
                           className="si__our__blog__two__content__text"
-                          href="#"
+                          
                         >
                          Tea Factory Electrical Solutions
                         </a>
 
                         <a
                           className="si__our__blog__two__content__btn"
-                          href="#"
+                          
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
@@ -167,7 +167,7 @@ export const ServiceSlider = () => {
                {/* Slide 4 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a href="#">
+                    <a >
                       <img src={service4} alt="" />
                     </a>
 
@@ -175,14 +175,14 @@ export const ServiceSlider = () => {
                       <div className="si__our__blog__two__content">
                         <a
                           className="si__our__blog__two__content__text"
-                          href="#"
+                          
                         >
                          Hotels, Hospitals & High Rises
                         </a>
 
                         <a
                           className="si__our__blog__two__content__btn"
-                          href="#"
+                          
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
@@ -195,7 +195,7 @@ export const ServiceSlider = () => {
                  {/* Slide 5 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a href="#">
+                    <a >
                       <img src={service5} alt="" />
                     </a>
 
@@ -203,14 +203,14 @@ export const ServiceSlider = () => {
                       <div className="si__our__blog__two__content">
                         <a
                           className="si__our__blog__two__content__text"
-                          href="#"
+                          
                         >
                         Hotels & Resorts
                         </a>
 
                         <a
                           className="si__our__blog__two__content__btn"
-                          href="#"
+                          
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
@@ -222,7 +222,7 @@ export const ServiceSlider = () => {
                  {/* Slide 6 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a href="#">
+                    <a >
                       <img src={service6} alt="" />
                     </a>
 
@@ -230,14 +230,14 @@ export const ServiceSlider = () => {
                       <div className="si__our__blog__two__content">
                         <a
                           className="si__our__blog__two__content__text"
-                          href="#"
+                          
                         >
                          Commercial Spaces & Offices
                         </a>
 
                         <a
                           className="si__our__blog__two__content__btn"
-                          href="#"
+                          
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
@@ -249,7 +249,7 @@ export const ServiceSlider = () => {
                  {/* Slide 7 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a href="#">
+                    <a >
                       <img src={service7} alt="" />
                     </a>
 
@@ -257,14 +257,14 @@ export const ServiceSlider = () => {
                       <div className="si__our__blog__two__content">
                         <a
                           className="si__our__blog__two__content__text"
-                          href="#"
+                          
                         >
                          Electric Vehicle Charging Infrastructure
                         </a>
 
                         <a
                           className="si__our__blog__two__content__btn"
-                          href="#"
+                          
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
@@ -276,7 +276,7 @@ export const ServiceSlider = () => {
                  {/* Slide 8 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a href="#">
+                    <a >
                       <img src={service8} alt="" />
                     </a>
 
@@ -284,14 +284,14 @@ export const ServiceSlider = () => {
                       <div className="si__our__blog__two__content">
                         <a
                           className="si__our__blog__two__content__text"
-                          href="#"
+                          
                         >
                          Aviation Lighting & Equipment Installation
                         </a>
 
                         <a
                           className="si__our__blog__two__content__btn"
-                          href="#"
+                          
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
@@ -303,7 +303,7 @@ export const ServiceSlider = () => {
                  {/* Slide 9 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a href="#">
+                    <a >
                       <img src={service9} alt="" />
                     </a>
 
@@ -311,14 +311,14 @@ export const ServiceSlider = () => {
                       <div className="si__our__blog__two__content">
                         <a
                           className="si__our__blog__two__content__text"
-                          href="#"
+                          
                         >
                          ELECTRICAL PANEL BOARDS FABRICATION & INSTALLATION
                         </a>
 
                         <a
                           className="si__our__blog__two__content__btn"
-                          href="#"
+                          
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
@@ -330,7 +330,7 @@ export const ServiceSlider = () => {
                  {/* Slide 10 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a href="#">
+                    <a >
                       <img src={service10} alt="" />
                     </a>
 
@@ -338,14 +338,14 @@ export const ServiceSlider = () => {
                       <div className="si__our__blog__two__content">
                         <a
                           className="si__our__blog__two__content__text"
-                          href="#"
+                          
                         >
                          LIGHTING DESIGN & INSTALLATION
                         </a>
 
                         <a
                           className="si__our__blog__two__content__btn"
-                          href="#"
+                          
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
@@ -404,7 +404,7 @@ export const ServiceSlider = () => {
 
               {/* Button */}
               <div className="si__about__three__btn">
-                <a className="si__btn2" href="/">
+                <a className="si__btn2" >
                   Read More
                 </a>
               </div>

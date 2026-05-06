@@ -40,12 +40,12 @@ export const ServicesDetail = () => {
                                 </div>
                                 <div class="si__service__details__left__right">
                                     <ul>
-                                        <li><a href="#">Information <i class="fa-solid fa-download"></i></a></li>
+                                        <li><a >Information <i class="fa-solid fa-download"></i></a></li>
                                     </ul>
                                 </div>
                                 <div class="si__service__details__left__right">
                                     <ul>
-                                        <li><a href="#">Terms & Conditions <i class="fa-solid fa-download"></i></a></li>
+                                        <li><a >Terms & Conditions <i class="fa-solid fa-download"></i></a></li>
                                     </ul>
                                 </div>
                             </div>

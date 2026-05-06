@@ -35,10 +35,10 @@ export const Content = () => {
 
                         {/* 
                         <ul className="pagination-menu mt-60 vxs-mt-40">
-                            <li><a href="#" className="current">1</a></li>
-                            <li><a href="#">2</a></li>
-                            <li><a href="#">3</a></li>
-                            <li><a href="#"><span className="icon fa-light fa-arrow-right-long"></span></a></li>
+                            <li><a  className="current">1</a></li>
+                            <li><a >2</a></li>
+                            <li><a >3</a></li>
+                            <li><a ><span className="icon fa-light fa-arrow-right-long"></span></a></li>
                         </ul> */}
                     </div>
                 </div>

@@ -47,7 +47,7 @@ export const Header = () => {
                 <div className="dt-sidebar-widget">
                     <div className="sidebar-container">
                         <div className="widget-top">
-                            <a href="#" className="close">
+                            <a  className="close">
                                 X
                             </a>
                         </div>
@@ -55,7 +55,7 @@ export const Header = () => {
                             <section className="sidebar-info-contents">
                                 <div className="content-inner">
                                     <div className="logo">
-                                        <a href="index-2.html"><img src="assets/images/logo/logo__white.png" alt="" /></a>
+                                        <a ><img src="assets/images/logo/logo__white.png" alt="" /></a>
                                     </div>
                                     <div className="content-text">
                                         <h2>About Us</h2>
@@ -74,16 +74,16 @@ export const Header = () => {
                             <div className="social-icon pt-40">
                                 <ul>
                                     <li>
-                                        <a href="#"><i className="fab fa-facebook-f"></i></a>
+                                        <a ><i className="fab fa-facebook-f"></i></a>
                                     </li>
                                     <li>
-                                        <a href="#"><i className="fa-brands fa-instagram"></i></a>
+                                        <a ><i className="fa-brands fa-instagram"></i></a>
                                     </li>
                                     <li>
-                                        <a href="#"><i className="fab fa-pinterest"></i></a>
+                                        <a ><i className="fab fa-pinterest"></i></a>
                                     </li>
                                     <li>
-                                        <a href="#"><i className="fab fa-linkedin-in"></i></a>
+                                        <a ><i className="fab fa-linkedin-in"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -96,42 +96,42 @@ export const Header = () => {
                 <div className="mobile-menu">
                     <nav className="si_menu">
                         <ul>
-                            <li><a href="index-2.html"> Home </a>
+                            <li><a > Home </a>
                                 <ul>
-                                    <li className="current__item"><a href="index-2.html"> Business Consultant </a></li>
-                                    <li><a href="index-two.html"> Finance Consulting </a></li>
-                                    <li><a href="index-three.html"> SEO Agency </a></li>
-                                    <li><a href="index-four.html"> Digital Agency </a></li>
-                                    <li><a href="index-five.html"> Corporate Business </a></li>
+                                    <li className="current__item"><a > Business Consultant </a></li>
+                                    <li><a > Finance Consulting </a></li>
+                                    <li><a > SEO Agency </a></li>
+                                    <li><a > Digital Agency </a></li>
+                                    <li><a > Corporate Business </a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Pages </a>
+                            <li><a >Pages </a>
                                 <ul className="sub__menu">
-                                    <li><a href="about-us.html"> About Us </a></li>
-                                    <li><a href="team.html"> Team </a></li>
-                                    <li><a href="faq.html"> FAQ </a></li>
-                                    <li><a href="our-pricing.html"> Our Pricing </a></li>
+                                    <li><a > About Us </a></li>
+                                    <li><a > Team </a></li>
+                                    <li><a > FAQ </a></li>
+                                    <li><a > Our Pricing </a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Services </a>
+                            <li><a >Services </a>
                                 <ul className="sub__menu">
-                                    <li><a href="service.html"> Services </a></li>
-                                    <li><a href="service-details.html"> Services Details </a></li>
+                                    <li><a > Services </a></li>
+                                    <li><a > Services Details </a></li>
                                 </ul>
                             </li>
-                            <li><a href="#"> Projects </a>
+                            <li><a > Projects </a>
                                 <ul className="sub__menu">
-                                    <li><a href="project.html"> Projects </a></li>
-                                    <li><a href="project-details.html"> Projects Details </a></li>
+                                    <li><a > Projects </a></li>
+                                    <li><a> Projects Details </a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Blog </a>
+                            <li><a >Blog </a>
                                 <ul className="sub__menu">
-                                    <li><a href="blog.html"> Blog </a></li>
-                                    <li><a href="blog-details.html"> Blog Details </a></li>
+                                    <li><a > Blog </a></li>
+                                    <li><a > Blog Details </a></li>
                                 </ul>
                             </li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a>Contact</a></li>
                         </ul>
                     </nav>
                 </div>

@@ -10,15 +10,15 @@ export const Footer = () => {
                         <div className="col-lg-3 col-md-6 col-sm-6 wow fadeInUp animated" data-wow-delay=".3s">
                             <div className="si__fotter__box">
                                 <div className="si__fotter__box__icon">
-                                    <a href="index-2.html"> <img className='footer_logo' src={LogoImg} alt="" /> </a>
+                                    <a > <img className='footer_logo' src={LogoImg} alt="" /> </a>
                                     <p>It is a long established fact that a <br /> reader will be distracted</p>
                                 </div>
                                 <div className="si__fotter__box__social">
-                                    <a href="#"><i className="fa-brands fa-instagram"></i></a>
-                                    <a href="#"><i className="fa-brands fa-facebook-f"></i></a>
-                                    <a href="#"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                                    <a ><i className="fa-brands fa-instagram"></i></a>
+                                    <a ><i className="fa-brands fa-facebook-f"></i></a>
+                                    <a ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                                         <path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z" /></svg></a>
-                                    <a href="#"><i className="fa-brands fa-linkedin-in"></i></a>
+                                    <a ><i className="fa-brands fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -26,10 +26,10 @@ export const Footer = () => {
                             <div className="si__fotter__text">
                                 <h6>About Company</h6>
                                 <ul>
-                                    <li><a href="#">Service</a></li>
-                                    <li><a href="#">FAQ</a></li>
-                                    <li><a href="#">Testimonial</a></li>
-                                    <li><a href="#">About Us</a></li>
+                                    <li><a >Service</a></li>
+                                    <li><a >FAQ</a></li>
+                                    <li><a >Testimonial</a></li>
+                                    <li><a >About Us</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -38,7 +38,7 @@ export const Footer = () => {
                                 <h6>Our Office</h6>
                                 <a href="mailto:svelectricalscbe12@gmail.com"><i className="fa-light fa-envelope"></i>  svelectricalscbe12@gmail.com</a>
                                 <a href="tel:7845873218"><i class="fa-solid fa-phone"></i> 78458 73218</a>
-                                <a href="#"><i className="fa-regular fa-location-dot"></i> Door No.:11 &12, Shop No.: 9, Second Floor
+                                <a ><i className="fa-regular fa-location-dot"></i> Door No.:11 &12, Shop No.: 9, Second Floor
 C.P Nayanar Balaji Complex, Kaleeswara Mill Road, Ram Nagar Post, Coimbatore - 641009.</a>
                             </div>
                         </div>

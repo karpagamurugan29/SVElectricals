@@ -21,7 +21,7 @@ export const OurFeature = () => {
                                                 <li> <i className="fa-regular fa-angle-right"></i> Achieving Results</li>
                                                 <li> <i className="fa-regular fa-angle-right"></i> Business Success</li>
                                             </ul>
-                                            <a className="si__btn__two mt-15" href="#"> read more </a>
+                                            <a className="si__btn__two mt-15" > read more </a>
                                         </div>
                                     </div>
                                 </div>

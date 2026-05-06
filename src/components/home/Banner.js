@@ -16,10 +16,10 @@ export const Banner = () => {
                             </div>
                             <div className="si__slider__five__box">
                                 <div className="si__slider__five__btn">
-                                    <a className="si__btn btn-one btn-five" href="/about">About us</a>
+                                    <a className="si__btn btn-one btn-five">About us</a>
                                 </div>
                                 <div className="si__slider__five__icon">
-                                    <a className="si__slider__vdo my-video-links" data-autoplay="true" data-vbtype="video" href="#">
+                                    <a className="si__slider__vdo my-video-links" data-autoplay="true" data-vbtype="video" >
                                         <i className="fa-sharp fa-solid fa-play"></i>
                                     </a>
                                 </div>

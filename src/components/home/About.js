@@ -44,7 +44,7 @@ export const About = () => {
                                     </p>
                                 </div>
                                 <div className="si__about__five__btn">
-                                    <a className="si__btn__two btn-five" href="#">Read More</a>
+                                    <a className="si__btn__two btn-five" >Read More</a>
                                 </div>
                             </div>
                         </div>
