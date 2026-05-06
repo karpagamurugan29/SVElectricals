@@ -147,7 +147,7 @@ C.P Nayanar Balaji Complex,  Kaleeswara Mill Road,<br /> Ram Nagar Post, Coimbat
                     <div className="row">
                         <div className="col-lg-12">
                             <div className="map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m19!1m12!1m3!1d31327.106481421783!2d76.99890000000002!3d11.047000000000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m4!3e0!4m0!4m1!2sDoor%20No.%3A11%20%2612%2C%20Shop%20No.%3A%209%2C%20Second%20Floor%20C.P%20Nayanar%20Balaji%20Complex%2C%20Kaleeswara%20Mill%20Road%2C%20Ram%20Nagar%20Post%2C%20Coimbatore-641009!5e0!3m2!1sen!2sin!4v1769241578928!5m2!1sen!2sin" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                            </div>
+<iframe title="Google Map Location" src="https://www.google.com/maps/embed?pb=!1m19!1m12!1m3!1d31327.106481421783!2d76.99890000000002!3d11.047000000000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m4!3e0!4m0!4m1!2sDoor%20No.%3A11%20%2612%2C%20Shop%20No.%3A%209%2C%20Second%20Floor%20C.P%20Nayanar%20Balaji%20Complex%2C%20Kaleeswara%20Mill%20Road%2C%20Ram%20Nagar%20Post%2C%20Coimbatore-641009!5e0!3m2!1sen!2sin!4v1769241578928!5m2!1sen!2sin" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                            </div>
                         </div>
                     </div>
                 </div>
