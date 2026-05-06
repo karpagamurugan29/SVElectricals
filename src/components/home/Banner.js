@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export const Banner = () => {
     return (
@@ -12,16 +13,16 @@ export const Banner = () => {
                             <div className="si__slider__five__content">
                                 <h1><strong>SVE Electricals</strong><br /> Lift Insurance & License Services</h1>
                                 <p>Trusted lift insurance, license approval, and renewal services<br />
-  ensuring safety, compliance, and reliability.</p>
+                                    ensuring safety, compliance, and reliability.</p>
                             </div>
                             <div className="si__slider__five__box">
                                 <div className="si__slider__five__btn">
-                                    <a className="si__btn btn-one btn-five">About us</a>
+                                    <Link className="si__btn btn-one btn-five">About us</Link>
                                 </div>
                                 <div className="si__slider__five__icon">
-                                    <a className="si__slider__vdo my-video-links" data-autoplay="true" data-vbtype="video" >
+                                    <Link className="si__slider__vdo my-video-links" data-autoplay="true" data-vbtype="video" >
                                         <i className="fa-sharp fa-solid fa-play"></i>
-                                    </a>
+                                    </Link>
                                 </div>
                                 <div className="si__slider__five__text">
                                     <span>See How It Works</span>

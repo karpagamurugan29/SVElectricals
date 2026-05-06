@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export const Content = () => {
     return (
@@ -84,7 +85,7 @@ C.P Nayanar Balaji Complex,  Kaleeswara Mill Road,<br /> Ram Nagar Post, Coimbat
                                         <div className="si__contact__from">
                                             <input name="text" type="text" placeholder="First Name..." />
                                             <div className="si__contact__icontwo">
-                                                <a ><i className="fa-solid fa-user"></i></a>
+                                                <Link><i className="fa-solid fa-user"></i></Link>
                                             </div>
                                         </div>
                                     </div>
@@ -92,7 +93,7 @@ C.P Nayanar Balaji Complex,  Kaleeswara Mill Road,<br /> Ram Nagar Post, Coimbat
                                         <div className="si__contact__from">
                                             <input name="text" type="text" placeholder="Last Name..." />
                                             <div className="si__contact__icontwo">
-                                                <a ><i className="fa-solid fa-user"></i></a>
+                                                <Link><i className="fa-solid fa-user"></i></Link>
                                             </div>
                                         </div>
                                     </div>
@@ -100,7 +101,7 @@ C.P Nayanar Balaji Complex,  Kaleeswara Mill Road,<br /> Ram Nagar Post, Coimbat
                                         <div className="si__contact__from">
                                             <input name="text" type="email" placeholder="Your Email" />
                                             <div className="si__contact__icontwo">
-                                                <a ><i className="fa-sharp fa-solid fa-paper-plane"></i></a>
+                                                <Link><i className="fa-sharp fa-solid fa-paper-plane"></i></Link>
                                             </div>
                                         </div>
                                     </div>
@@ -108,7 +109,7 @@ C.P Nayanar Balaji Complex,  Kaleeswara Mill Road,<br /> Ram Nagar Post, Coimbat
                                         <div className="si__contact__from">
                                             <input name="text" type="text" placeholder="Your Phone" />
                                             <div className="si__contact__icontwo">
-                                                <a ><i className="fa-sharp fa-solid fa-phone"></i></a>
+                                                <Link><i className="fa-sharp fa-solid fa-phone"></i></Link>
                                             </div>
                                         </div>
                                     </div>
@@ -116,7 +117,7 @@ C.P Nayanar Balaji Complex,  Kaleeswara Mill Road,<br /> Ram Nagar Post, Coimbat
                                         <div className="si__contact__message">
                                             <textarea placeholder=" Write your company name..."></textarea>
                                             <div className="si__contact__iconthree">
-                                                <a ><i className="fa-sharp fa-solid fa-envelope"></i></a>
+                                                <Link><i className="fa-sharp fa-solid fa-envelope"></i></Link>
                                             </div>
                                         </div>
                                         <div className="si__contact__text text-start">

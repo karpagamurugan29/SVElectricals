@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export const OurFeature = () => {
     return (
@@ -21,7 +22,7 @@ export const OurFeature = () => {
                                                 <li> <i className="fa-regular fa-angle-right"></i> Achieving Results</li>
                                                 <li> <i className="fa-regular fa-angle-right"></i> Business Success</li>
                                             </ul>
-                                            <a className="si__btn__two mt-15" > read more </a>
+                                            <Link className="si__btn__two mt-15" > read more </Link>
                                         </div>
                                     </div>
                                 </div>

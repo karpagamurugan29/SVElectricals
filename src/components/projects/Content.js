@@ -25,7 +25,7 @@ export const Content = () => {
                                         </span>
                                         <h3><Link to='/project-detail'>Secure Your Business's Financial Future Today</Link></h3>
                                         <p>Web designing in a powerful way of just not an only professions, however, in a passion for our<br /> Company. We have to a tendency to believe the idea that smart looking </p>
-                                        <a className="si__btn__four mb-70"> <Link to='/project-detail'>read more</Link> <i className="fa-regular fa-arrow-right"></i></a>
+                                        <Link className="si__btn__four mb-70"> <Link to='/project-detail'>read more</Link> <i className="fa-regular fa-arrow-right"></i></Link>
                                     </div>
                                 </div>
                             ))
@@ -35,10 +35,10 @@ export const Content = () => {
 
                         {/* 
                         <ul className="pagination-menu mt-60 vxs-mt-40">
-                            <li><a  className="current">1</a></li>
-                            <li><a >2</a></li>
-                            <li><a >3</a></li>
-                            <li><a ><span className="icon fa-light fa-arrow-right-long"></span></a></li>
+                            <li><Link className="current">1</Link></li>
+                            <li><Link>2</Link></li>
+                            <li><Link>3</Link></li>
+                            <li><Link><span className="icon fa-light fa-arrow-right-long"></span></Link></li>
                         </ul> */}
                     </div>
                 </div>

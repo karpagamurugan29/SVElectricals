@@ -14,6 +14,7 @@ import service7 from '../../assert/images/our-service/service7.jpg'
 import service8 from '../../assert/images/our-service/service8.jpg'
 import service9 from '../../assert/images/our-service/service9.jpg'
 import service10 from '../../assert/images/our-service/service10.jpg'
+import { Link } from "react-router-dom";
 
 
 export const ServiceSlider = () => {
@@ -83,26 +84,25 @@ export const ServiceSlider = () => {
                 {/* Slide 1 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a >
+                    <Link>
                       <img src={service1} alt="" />
-                    </a>
+                    </Link>
 
                     <div className="si__our__blog__two__inner">
                       <div className="si__our__blog__two__content">
-                        <a
+                        <Link
                           className="si__our__blog__two__content__text"
                           
                         >
                          Design & Installation of HV Substations & Transformers
-                        </a>
+                        </Link>
 
-                        <a
+                        <Link
                           className="si__our__blog__two__content__btn"
-                          
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
-                        </a>
+                        </Link>
                       </div>
                     </div>
                   </div>
@@ -111,26 +111,26 @@ export const ServiceSlider = () => {
                 {/* Slide 2 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a >
+                    <Link>
                       <img src={service2} alt="" />
-                    </a>
+                    </Link>
 
                     <div className="si__our__blog__two__inner">
                       <div className="si__our__blog__two__content">
-                        <a
+                        <Link
                           className="si__our__blog__two__content__text"
                           
                         >
                           Industrial Electrical Solutions
-                        </a>
+                        </Link>
 
-                        <a
+                        <Link
                           className="si__our__blog__two__content__btn"
                           
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
-                        </a>
+                        </Link>
                       </div>
                     </div>
                   </div>
@@ -139,26 +139,26 @@ export const ServiceSlider = () => {
                 {/* Slide 3 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a >
+                    <Link>
                       <img src={service3} alt="" />
-                    </a>
+                    </Link>
 
                     <div className="si__our__blog__two__inner">
                       <div className="si__our__blog__two__content">
-                        <a
+                        <Link
                           className="si__our__blog__two__content__text"
                           
                         >
                          Tea Factory Electrical Solutions
-                        </a>
+                        </Link>
 
-                        <a
+                        <Link
                           className="si__our__blog__two__content__btn"
                           
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
-                        </a>
+                        </Link>
                       </div>
                     </div>
                   </div>
@@ -167,26 +167,26 @@ export const ServiceSlider = () => {
                {/* Slide 4 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a >
+                    <Link>
                       <img src={service4} alt="" />
-                    </a>
+                    </Link>
 
                     <div className="si__our__blog__two__inner">
                       <div className="si__our__blog__two__content">
-                        <a
+                        <Link
                           className="si__our__blog__two__content__text"
                           
                         >
                          Hotels, Hospitals & High Rises
-                        </a>
+                        </Link>
 
-                        <a
+                        <Link
                           className="si__our__blog__two__content__btn"
                           
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
-                        </a>
+                        </Link>
                       </div>
                     </div>
                   </div>
@@ -195,26 +195,26 @@ export const ServiceSlider = () => {
                  {/* Slide 5 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a >
+                    <Link>
                       <img src={service5} alt="" />
-                    </a>
+                    </Link>
 
                     <div className="si__our__blog__two__inner">
                       <div className="si__our__blog__two__content">
-                        <a
+                        <Link
                           className="si__our__blog__two__content__text"
                           
                         >
                         Hotels & Resorts
-                        </a>
+                        </Link>
 
-                        <a
+                        <Link
                           className="si__our__blog__two__content__btn"
                           
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
-                        </a>
+                        </Link>
                       </div>
                     </div>
                   </div>
@@ -222,26 +222,26 @@ export const ServiceSlider = () => {
                  {/* Slide 6 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a >
+                    <Link>
                       <img src={service6} alt="" />
-                    </a>
+                    </Link>
 
                     <div className="si__our__blog__two__inner">
                       <div className="si__our__blog__two__content">
-                        <a
+                        <Link
                           className="si__our__blog__two__content__text"
                           
                         >
                          Commercial Spaces & Offices
-                        </a>
+                        </Link>
 
-                        <a
+                        <Link
                           className="si__our__blog__two__content__btn"
                           
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
-                        </a>
+                        </Link>
                       </div>
                     </div>
                   </div>
@@ -249,26 +249,26 @@ export const ServiceSlider = () => {
                  {/* Slide 7 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a >
+                    <Link>
                       <img src={service7} alt="" />
-                    </a>
+                    </Link>
 
                     <div className="si__our__blog__two__inner">
                       <div className="si__our__blog__two__content">
-                        <a
+                        <Link
                           className="si__our__blog__two__content__text"
                           
                         >
                          Electric Vehicle Charging Infrastructure
-                        </a>
+                        </Link>
 
-                        <a
+                        <Link
                           className="si__our__blog__two__content__btn"
                           
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
-                        </a>
+                        </Link>
                       </div>
                     </div>
                   </div>
@@ -276,26 +276,26 @@ export const ServiceSlider = () => {
                  {/* Slide 8 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a >
+                    <Link>
                       <img src={service8} alt="" />
-                    </a>
+                    </Link>
 
                     <div className="si__our__blog__two__inner">
                       <div className="si__our__blog__two__content">
-                        <a
+                        <Link
                           className="si__our__blog__two__content__text"
                           
                         >
                          Aviation Lighting & Equipment Installation
-                        </a>
+                        </Link>
 
-                        <a
+                        <Link
                           className="si__our__blog__two__content__btn"
                           
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
-                        </a>
+                        </Link>
                       </div>
                     </div>
                   </div>
@@ -303,26 +303,26 @@ export const ServiceSlider = () => {
                  {/* Slide 9 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a >
+                    <Link>
                       <img src={service9} alt="" />
-                    </a>
+                    </Link>
 
                     <div className="si__our__blog__two__inner">
                       <div className="si__our__blog__two__content">
-                        <a
+                        <Link
                           className="si__our__blog__two__content__text"
                           
                         >
                          ELECTRICAL PANEL BOARDS FABRICATION & INSTALLATION
-                        </a>
+                        </Link>
 
-                        <a
+                        <Link
                           className="si__our__blog__two__content__btn"
                           
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
-                        </a>
+                        </Link>
                       </div>
                     </div>
                   </div>
@@ -330,26 +330,26 @@ export const ServiceSlider = () => {
                  {/* Slide 10 */}
                 <SwiperSlide>
                   <div className="si__our__blog__two__thumb">
-                    <a >
+                    <Link>
                       <img src={service10} alt="" />
-                    </a>
+                    </Link>
 
                     <div className="si__our__blog__two__inner">
                       <div className="si__our__blog__two__content">
-                        <a
+                        <Link
                           className="si__our__blog__two__content__text"
                           
                         >
                          LIGHTING DESIGN & INSTALLATION
-                        </a>
+                        </Link>
 
-                        <a
+                        <Link
                           className="si__our__blog__two__content__btn"
                           
                         >
                           Read More{" "}
                           <i className="fa-sharp fa-regular fa-arrow-right"></i>
-                        </a>
+                        </Link>
                       </div>
                     </div>
                   </div>
@@ -404,9 +404,9 @@ export const ServiceSlider = () => {
 
               {/* Button */}
               <div className="si__about__three__btn">
-                <a className="si__btn2" >
+                <Link className="si__btn2" >
                   Read More
-                </a>
+                </Link>
               </div>
             </div>
           </div>

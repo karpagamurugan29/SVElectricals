@@ -2,6 +2,7 @@ import React from 'react'
 import { Header } from '../common/Header'
 import { SubPageBanner } from '../common/SubPageBanner'
 import { Footer } from '../common/Footer'
+import { Link } from 'react-router-dom'
 
 export const ServicesDetail = () => {
     return (
@@ -40,12 +41,12 @@ export const ServicesDetail = () => {
                                 </div>
                                 <div class="si__service__details__left__right">
                                     <ul>
-                                        <li><a >Information <i class="fa-solid fa-download"></i></a></li>
+                                        <li><Link>Information <i class="fa-solid fa-download"></i></Link></li>
                                     </ul>
                                 </div>
                                 <div class="si__service__details__left__right">
                                     <ul>
-                                        <li><a >Terms & Conditions <i class="fa-solid fa-download"></i></a></li>
+                                        <li><Link>Terms & Conditions <i class="fa-solid fa-download"></i></Link></li>
                                     </ul>
                                 </div>
                             </div>

@@ -24,9 +24,9 @@ export const Management = () => {
                                     <span>Instructor</span>
                                 </div>
                                 <div className="si__team__five__icon">
-                                    <a ><i className="fa-brands fa-facebook-f"></i></a>
-                                    <a ><i className="fa-brands fa-instagram"></i></a>
-                                    <a ><i className="fa-brands fa-linkedin-in"></i></a>
+                                    <Link><i className="fa-brands fa-facebook-f"></i></Link>
+                                    <Link><i className="fa-brands fa-instagram"></i></Link>
+                                    <Link><i className="fa-brands fa-linkedin-in"></i></Link>
                                 </div>
                             </div>
                         </div>
@@ -40,9 +40,9 @@ export const Management = () => {
                                     <span>Instructor</span>
                                 </div>
                                 <div className="si__team__five__icon">
-                                    <a ><i className="fa-brands fa-facebook-f"></i></a>
-                                    <a ><i className="fa-brands fa-instagram"></i></a>
-                                    <a ><i className="fa-brands fa-linkedin-in"></i></a>
+                                    <Link><i className="fa-brands fa-facebook-f"></i></Link>
+                                    <Link><i className="fa-brands fa-instagram"></i></Link>
+                                    <Link><i className="fa-brands fa-linkedin-in"></i></Link>
                                 </div>
                             </div>
                         </div>
@@ -56,9 +56,9 @@ export const Management = () => {
                                     <span>Instructor</span>
                                 </div>
                                 <div className="si__team__five__icon">
-                                    <a ><i className="fa-brands fa-facebook-f"></i></a>
-                                    <a ><i className="fa-brands fa-instagram"></i></a>
-                                    <a ><i className="fa-brands fa-linkedin-in"></i></a>
+                                    <Link><i className="fa-brands fa-facebook-f"></i></Link>
+                                    <Link><i className="fa-brands fa-instagram"></i></Link>
+                                    <Link><i className="fa-brands fa-linkedin-in"></i></Link>
                                 </div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@ export const Management = () => {
                                     <h2>Get your FREE account<br /> now,50 monitors included!</h2>
                                 </div>
                                 <div className="si__call__do__action__btn">
-                                    <a className="si__btn__two btn-six" >Sign Up Now</a>
+                                    <Link className="si__btn__two btn-six" >Sign Up Now</Link>
                                 </div>
                                 <div className="si__call__do__action__text">
                                     <p>No credit card required!</p>

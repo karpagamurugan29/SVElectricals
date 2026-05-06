@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export const About = () => {
     return (
@@ -44,7 +45,7 @@ export const About = () => {
                                     </p>
                                 </div>
                                 <div className="si__about__five__btn">
-                                    <a className="si__btn__two btn-five" >Read More</a>
+                                    <Link className="si__btn__two btn-five" >Read More</Link>
                                 </div>
                             </div>
                         </div>

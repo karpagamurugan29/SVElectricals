@@ -1,6 +1,6 @@
 import React from 'react'
 import aboutImg from '../../assert/images/why-choose.png'
-
+import { Link } from 'react-router-dom'
 
 export const WhyChooseUs = () => {
     return (
@@ -45,7 +45,7 @@ export const WhyChooseUs = () => {
                                 <div className="si__why__choose__iconbox pt-7 wow fadeInLeft animated" data-wow-delay="1.5s">
                                     <h6> <i className="fa-solid fa-angle-right"></i> Lasting Results </h6>
                                     <p> It was popularised init has survived not only five centuries, but <br/> also the leap into electronic typesetting, remaining essentially </p>
-                                    <a className="si__btn mt-15"> Read more </a>
+                                    <Link className="si__btn mt-15"> Read more </Link>
                                 </div>
                             </div>
                         </div>

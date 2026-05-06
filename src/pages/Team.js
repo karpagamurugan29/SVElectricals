@@ -2,6 +2,7 @@ import React from 'react'
 import { SubPageBanner } from '../components/common/SubPageBanner'
 import { Header } from '../components/common/Header'
 import { Footer } from '../components/common/Footer'
+import { Link } from 'react-router-dom'
 
 export const Team = () => {
     return (
@@ -22,13 +23,13 @@ export const Team = () => {
                                         </div>
                                         <div className="si__our__team__wrap">
                                             <div className="si__our__team__social">
-                                                <a > <i className="fa-brands fa-facebook-f"></i> </a>
-                                                <a > <i className="fa-brands fa-instagram"></i> </a>
-                                                <a > <i className="fa-brands fa-pinterest"></i> </a>
-                                                <a > <i className="fa-brands fa-linkedin"></i> </a>
+                                                <Link> <i className="fa-brands fa-facebook-f"></i> </Link>
+                                                <Link> <i className="fa-brands fa-instagram"></i> </Link>
+                                                <Link> <i className="fa-brands fa-pinterest"></i> </Link>
+                                                <Link> <i className="fa-brands fa-linkedin"></i> </Link>
                                             </div>
                                             <div className="si__our__team__share">
-                                                <a ><i className="fa-sharp fa-regular fa-share-nodes"></i></a>
+                                                <Link><i className="fa-sharp fa-regular fa-share-nodes"></i></Link>
                                             </div>
                                         </div>
                                     </div>
@@ -46,13 +47,13 @@ export const Team = () => {
                                         </div>
                                         <div className="si__our__team__wrap">
                                             <div className="si__our__team__social">
-                                                <a > <i className="fa-brands fa-facebook-f"></i> </a>
-                                                <a > <i className="fa-brands fa-instagram"></i> </a>
-                                                <a > <i className="fa-brands fa-pinterest"></i> </a>
-                                                <a > <i className="fa-brands fa-linkedin"></i> </a>
+                                                <Link> <i className="fa-brands fa-facebook-f"></i> </Link>
+                                                <Link> <i className="fa-brands fa-instagram"></i> </Link>
+                                                <Link> <i className="fa-brands fa-pinterest"></i> </Link>
+                                                <Link> <i className="fa-brands fa-linkedin"></i> </Link>
                                             </div>
                                             <div className="si__our__team__share">
-                                                <a ><i className="fa-sharp fa-regular fa-share-nodes"></i></a>
+                                                <Link><i className="fa-sharp fa-regular fa-share-nodes"></i></Link>
                                             </div>
                                         </div>
                                     </div>
@@ -70,13 +71,13 @@ export const Team = () => {
                                         </div>
                                         <div className="si__our__team__wrap">
                                             <div className="si__our__team__social">
-                                                <a > <i className="fa-brands fa-facebook-f"></i> </a>
-                                                <a > <i className="fa-brands fa-instagram"></i> </a>
-                                                <a > <i className="fa-brands fa-pinterest"></i> </a>
-                                                <a > <i className="fa-brands fa-linkedin"></i> </a>
+                                                <Link> <i className="fa-brands fa-facebook-f"></i> </Link>
+                                                <Link> <i className="fa-brands fa-instagram"></i> </Link>
+                                                <Link> <i className="fa-brands fa-pinterest"></i> </Link>
+                                                <Link> <i className="fa-brands fa-linkedin"></i> </Link>
                                             </div>
                                             <div className="si__our__team__share">
-                                                <a ><i className="fa-sharp fa-regular fa-share-nodes"></i></a>
+                                                <Link><i className="fa-sharp fa-regular fa-share-nodes"></i></Link>
                                             </div>
                                         </div>
                                     </div>
@@ -94,13 +95,13 @@ export const Team = () => {
                                         </div>
                                         <div className="si__our__team__wrap">
                                             <div className="si__our__team__social">
-                                                <a > <i className="fa-brands fa-facebook-f"></i> </a>
-                                                <a > <i className="fa-brands fa-instagram"></i> </a>
-                                                <a > <i className="fa-brands fa-pinterest"></i> </a>
-                                                <a > <i className="fa-brands fa-linkedin"></i> </a>
+                                                <Link> <i className="fa-brands fa-facebook-f"></i> </Link>
+                                                <Link> <i className="fa-brands fa-instagram"></i> </Link>
+                                                <Link> <i className="fa-brands fa-pinterest"></i> </Link>
+                                                <Link> <i className="fa-brands fa-linkedin"></i> </Link>
                                             </div>
                                             <div className="si__our__team__share">
-                                                <a ><i className="fa-sharp fa-regular fa-share-nodes"></i></a>
+                                                <Link><i className="fa-sharp fa-regular fa-share-nodes"></i></Link>
                                             </div>
                                         </div>
                                     </div>
@@ -118,13 +119,13 @@ export const Team = () => {
                                         </div>
                                         <div className="si__our__team__wrap">
                                             <div className="si__our__team__social">
-                                                <a > <i className="fa-brands fa-facebook-f"></i> </a>
-                                                <a > <i className="fa-brands fa-instagram"></i> </a>
-                                                <a > <i className="fa-brands fa-pinterest"></i> </a>
-                                                <a > <i className="fa-brands fa-linkedin"></i> </a>
+                                                <Link> <i className="fa-brands fa-facebook-f"></i> </Link>
+                                                <Link> <i className="fa-brands fa-instagram"></i> </Link>
+                                                <Link> <i className="fa-brands fa-pinterest"></i> </Link>
+                                                <Link> <i className="fa-brands fa-linkedin"></i> </Link>
                                             </div>
                                             <div className="si__our__team__share">
-                                                <a ><i className="fa-sharp fa-regular fa-share-nodes"></i></a>
+                                                <Link><i className="fa-sharp fa-regular fa-share-nodes"></i></Link>
                                             </div>
                                         </div>
                                     </div>
@@ -142,13 +143,13 @@ export const Team = () => {
                                         </div>
                                         <div className="si__our__team__wrap">
                                             <div className="si__our__team__social">
-                                                <a > <i className="fa-brands fa-facebook-f"></i> </a>
-                                                <a > <i className="fa-brands fa-instagram"></i> </a>
-                                                <a > <i className="fa-brands fa-pinterest"></i> </a>
-                                                <a > <i className="fa-brands fa-linkedin"></i> </a>
+                                                <Link> <i className="fa-brands fa-facebook-f"></i> </Link>
+                                                <Link> <i className="fa-brands fa-instagram"></i> </Link>
+                                                <Link> <i className="fa-brands fa-pinterest"></i> </Link>
+                                                <Link> <i className="fa-brands fa-linkedin"></i> </Link>
                                             </div>
                                             <div className="si__our__team__share">
-                                                <a ><i className="fa-sharp fa-regular fa-share-nodes"></i></a>
+                                                <Link><i className="fa-sharp fa-regular fa-share-nodes"></i></Link>
                                             </div>
                                         </div>
                                     </div>

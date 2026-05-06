@@ -2,6 +2,7 @@ import React from 'react'
 import { Header } from '../common/Header'
 import { SubPageBanner } from '../common/SubPageBanner'
 import { Footer } from '../common/Footer'
+import { Link } from 'react-router-dom'
 
 export const ProjectDetail = () => {
     return (
@@ -37,14 +38,14 @@ export const ProjectDetail = () => {
                             <div className="si__project__details__box wow fadeInUp animated" data-wow-delay=".5s">
                                 <h5>Project Details</h5>
                                 <ul>
-                                    <li><a >Category:</a> <span>BizBoost</span></li>
-                                    <li><a >Author:</a> <span>Abu Talha</span></li>
-                                    <li><a >Date:</a> <span>23 December,2024</span></li>
-                                    <li><a >Tags:</a> <span>DataMasters</span></li>
-                                    <li><a >Value:</a> <strong>$ 240</strong></li>
+                                    <li><Link>Category:</Link> <span>BizBoost</span></li>
+                                    <li><Link>Author:</Link> <span>Abu Talha</span></li>
+                                    <li><Link>Date:</Link> <span>23 December,2024</span></li>
+                                    <li><Link>Tags:</Link> <span>DataMasters</span></li>
+                                    <li><Link>Value:</Link> <strong>$ 240</strong></li>
                                 </ul>
                                 <div className="si__project__details__btn">
-                                    <a >Download PDF <i className="fa-solid fa-download"></i></a>
+                                    <Link>Download PDF <i className="fa-solid fa-download"></i></Link>
                                 </div>
                             </div>
                         </div>
